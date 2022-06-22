@@ -1,0 +1,17 @@
+.button-wrapper {
+    display: flex;
+    justify-content: center;
+    flex-direction: column-reverse;
+    align-items: center;
+    align-content: center;
+    height: 100vh;
+    flex-wrap: wrap;
+}
+
+.button {
+    width: 150px;
+    margin:20px;
+    background-color: #862;
+    border: none;
+    border-radius: 10px;
+}
